@@ -8,11 +8,38 @@ Test API for Palenca
 
 Test Api that can login and show user info
 
-## Install dependencies
+## Requirements
+
+You need to have the following services installed in your computer:
+
+* node > 12.0
+
+### Mac OS
+
+```
+$ brew install node
+```
+
+
+### Clone the repo
+
+```
+$ git clone git@github.com:alexismellamo/palenca-api.git
+```
+
+### Install node dependencies
 
 ```
 $ yarn
 ```
+
+
+## Run the server
+
+```
+$ yarn start
+```
+
 
 ## Basic use
 
